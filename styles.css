@@ -303,8 +303,8 @@ dd {
 
 @media screen and (max-width:500px){
   .bg-section {
-    height:fit-content;
-    width: fit-content;
+    height:500px;
+    width: 500px;
   }
  
   
